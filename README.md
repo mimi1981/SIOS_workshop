@@ -4,6 +4,7 @@ Hands on workshop on sea ice surface AI classification techniques (<a href="http
 <p float="left">
   <img src="preview/OLCI_SAR.jpg" height="260"/>
   <img src="preview/SAR_index.jpg" height="260"/> 
+  <img src="preview/SAR_index.jpg" height="260"/> 
 </p>
 
 In this session we will try and look at some recent approaches tried at <a href="http://www.cpom.ucl.ac.uk/group/">CPOM</a> UCL with colleagues to classify sea ice surface with a variety of satellite sensors and techniques. 
