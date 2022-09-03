@@ -1,8 +1,12 @@
 # SIOS workshop
 Hands on workshop on sea ice surface AI classification techniques (<a href="AI4Svalbard workshop (September 2022)">AI4Svalbard</a>, Sep 2022)
 
-<img src="preview/OLCI_SAR.jpg" height="300"/>
-<img src="preview/SAR_index.jpg" height="300"/>
+
+
+<p float="left">
+  <img src="preview/OLCI_SAR.jpg" height="260"/>
+  <img src="preview/SAR_index.jpg" height="260"/> 
+</p>
 
 Tool for manual image segmentation and classification of satellite imagery (or images in general). It was designed to accelerate the creation of machine learning training datasets for Earth Observation. This application is a flask app which can be run locally. Special highlights:
 * Support by AI (gradient boosted decision tree) when doing image segmentation
