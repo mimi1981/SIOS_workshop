@@ -54,6 +54,9 @@ Having run the demo, you can then create a personalised config file, based on _d
 iris label <your-config-file>
 ```
 
-Try with melt.json. You would need to first download the images directory into your working directory. Once downloaded you should be able to train your image to look at melt ponds, leads, sea ice, snow and mountains. The image is from <a href="https://github.com/ESA-PhiLab/iris">Sentinel-2</a> and is over the Inuit Nunangat (North Canada) locality of Pond Inlet. 
+Try with melt.json. You would need to first download the images directory into your working directory and duplicate it under images/n1/ and images/n2/. Once downloaded you should be able to train your image to look at melt ponds, leads, sea ice, snow and mountains. The image is from <a href="https://github.com/ESA-PhiLab/iris">Sentinel-2</a> and is over the Inuit Nunangat (North Canada) locality of Pond Inlet. 
+
+ <img src="preview/image1.png" height="360"/>
+
 
 **Visit the official iris Github page:  https://github.com/ESA-PhiLab/iris**
