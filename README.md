@@ -21,6 +21,7 @@ Make sure you sign up to the free version of Google Colab prior to the session.
 
 You will need to download and re-upload onto Google Colab the following data and notebooks from the following link <a href="https://drive.google.com/file/d/1OovNRyq-lN0qw83452E6_dt9iz4bEOJh/view?usp=sharing">Google Drive</a>
 
+
 ## Part 2 - On your laptops
 
 In this part we will use <a href="https://github.com/ESA-PhiLab/iris">IRIS</a> - Intelligently Reinforced Image Segmentation designed for manual image segmentation and classification of satellite imagery. 
