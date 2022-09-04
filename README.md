@@ -2,9 +2,9 @@
 Hands on workshop on sea ice surface AI classification techniques (<a href="https://sios-svalbard.org/AI4Svalbard">AI4Svalbard</a>, Sep 2022)
 
 <p float="left">
-  <img src="preview/OLCI_SAR.jpg" height="230"/>
-  <img src="preview/SAR_index.jpg" height="230"/> 
-  <img src="preview/Echoes.png" height="230"/> 
+  <img src="preview/OLCI_SAR.jpg" height="220"/>
+  <img src="preview/SAR_index.jpg" height="220"/> 
+  <img src="preview/Echoes.png" height="220"/> 
 </p>
 
 In this session we will try and look at some recent approaches tried at <a href="http://www.cpom.ucl.ac.uk/group/">CPOM</a> UCL with colleagues to classify sea ice surface with a variety of satellite sensors and techniques. 
