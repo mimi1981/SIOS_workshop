@@ -21,6 +21,16 @@ Make sure you sign up to the free version of Google Colab prior to the session.
 
 You will need to download and re-upload onto Google Colab the following data and notebooks from the following link <a href="https://drive.google.com/file/d/1OovNRyq-lN0qw83452E6_dt9iz4bEOJh/view?usp=sharing">Google Drive</a>
 
+Make sure to adapt the notebook to be consistent with your paths on Google Drive as below. 
+
+```
+import numpy as np
+##Process the data separately and load them since processing the data takes quite some time and we don't want to process it evertime we run the model
+x_test = np.load('/content/drive/MyDrive/ColabNotebooks/Data/x_test.npy')
+x_train  = np.load('/content/drive/MyDrive/ColabNotebooks/Data/x_train.npy')
+y_test  = np.load('/content/drive/MyDrive/ColabNotebooks/Data/y_test.npy')
+y_train  = np.load('/content/drive/MyDrive/ColabNotebooks/Data/y_train.npy')
+```
 
 ## Part 2 - On your laptops
 
