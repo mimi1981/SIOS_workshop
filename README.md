@@ -2,9 +2,9 @@
 Hands on workshop on sea ice surface AI classification techniques (<a href="https://sios-svalbard.org/AI4Svalbard">AI4Svalbard</a>, Sep 2022)
 
 <p float="left">
-  <img src="preview/OLCI_SAR.jpg" height="220"/>
-  <img src="preview/SAR_index.jpg" height="220"/> 
-  <img src="preview/Echoes.png" height="220"/> 
+  <img src="preview/OLCI_SAR.jpg" height="200"/>
+  <img src="preview/SAR_index.jpg" height="200"/> 
+  <img src="preview/Echoes.png" height="200"/> 
 </p>
 
 In this session we will try and look at some recent approaches tried at <a href="http://www.cpom.ucl.ac.uk/group/">CPOM</a> UCL with colleagues to classify sea ice surface with a variety of satellite sensors and techniques. 
@@ -13,12 +13,11 @@ In this session we will try and look at some recent approaches tried at <a href=
 
 In this part we will use a pre-processed training and testing datasets obtained from a combination of collocated optical imagery from <a href="https://sentinels.copernicus.eu/web/sentinel/technical-guides/sentinel-3-olci">OLCI</a> and radar altimetry from <a href="https://sentinels.copernicus.eu/web/sentinel/technical-guides/sentinel-3-altimetry/instrument/sral">SRAL</a>. Both instruments are onboard the <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-3">Sentinel-3</a> Copernicus satellites. 
 
-Tool for manual image segmentation and classification of satellite imagery (or images in general). It was designed to accelerate the creation of machine learning training datasets for Earth Observation. This application is a flask app which can be run locally. Special highlights:
-* Support by AI (gradient boosted decision tree) when doing image segmentation
-* Multiple and configurable views for multispectral imagery
-* Simple setup with pip and one configuration file
-* Platform independent app (runs on Linux, Windows and Mac OS)
-* Multi-user support: work in a team on your dataset and merge the results
+A brief description of the algorithms to be used are included in the SIOS_AI4SeaIce.pdf document. 
+
+## Installation 
+
+Make sure you sign up to the free version of Google Colab. 
 
 ## Part 2 - On your laptops
 
