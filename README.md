@@ -19,7 +19,7 @@ A brief description of the algorithms to be used are included in the SIOS_AI4Sea
 
 Make sure you sign up to the free version of Google Colab prior to the session. 
 
-You will need to download and re-upload onto Google Colab the following data and notebooks from the following link <a href="https://drive.google.com/file/d/1OovNRyq-lN0qw83452E6_dt9iz4bEOJh/view?usp=sharing">Google Drive</a>. 
+You will need to download and re-upload onto Google Colab the following data and notebooks from the following link <a href="https://drive.google.com/file/d/1sNryvnz2C4zJ3L8e0tvs4dBzEg9-Rizq/view?usp=sharing">Google Drive</a>. 
 
 Make sure to adapt the notebook to be consistent with your paths on Google Drive as below. 
 
